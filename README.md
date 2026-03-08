@@ -98,8 +98,7 @@ Below are excerpts from a sample report (data from March 2026 run):
 
 ![Supply Projection Chart](path/to/supply_projection_screenshot.png)
 
-![Composite Ranking]([github.com/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/assets/composite_ranking.png?raw=true](https://github.com/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/373e7d07691ba4b194a53f926278b13b71db32c1/assets/composite_ranking.png))
-https://github.com/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/assets/composite_ranking.png?raw=true
+[![Composite Ranking](https://github.com/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/assets/composite_ranking.png?raw=true)](https://github.com/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/assets/composite_ranking.png?raw=true)
 
 
 Full sample PDF: [defi_sustainability_report.pdf](https://github.com/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/defi_sustainability_report.pdf)
@@ -117,6 +116,7 @@ Full sample PDF: [defi_sustainability_report.pdf](https://github.com/GeorgeKGM20
 
 
 MIT License. See [LICENSE](LICENSE) for details.
+
 
 
 
