@@ -100,7 +100,7 @@ Below are excerpts from a sample report (data from March 2026 run):
 
 ![Composite Ranking](path/to/composite_ranking_screenshot.png)
 
-Full sample PDF: [defi_sustainability_report.pdf](path/to/sample_pdf.pdf)
+Full sample PDF: [defi_sustainability_report.pdf]([path/to/sample_pdf.pdf](https://github.com/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/defi_sustainability_report.pdf))
 
 
 ## Possible Future Improvements
@@ -115,4 +115,5 @@ Full sample PDF: [defi_sustainability_report.pdf](path/to/sample_pdf.pdf)
 
 
 MIT License. See [LICENSE](LICENSE) for details.
+
 
