@@ -88,15 +88,20 @@ See the report's glossary for full definitions and weighting logic.
 
 Below are excerpts from a sample report (data from March 2026 run):
 
-![Executive Summary](path/to/exec_summary_screenshot.png)
+### Executive Summary
+![Executive Summary](https://github.com/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/assets/executive_summary.png?raw=true)
 
-![Metric Definitions](path/to/metric_definitions_screenshot.png)
+### Metric Definitions
+![Metric Definitions](https://github.com/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/assets/metric_definitions.png?raw=true)
 
-![Pendle Page](path/to/pendle_page_screenshot.png)
+### Pendle Page
+![Pendle Page](https://github.com/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/assets/pendle_page.png?raw=true)
 
-![Relative Dilution Chart](path/to/relative_dilution_screenshot.png)
+### Relative Dilution Chart
+![Relative Dilution Chart](https://github.com/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/assets/relative_dilution_chart.png?raw=true)
 
-![Supply Projection Chart](path/to/supply_projection_screenshot.png)
+### Supply Projection Chart
+![Supply Projection Chart](https://github.com/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/assets/supply_projection_chart.png?raw=true)
 
 ### Composite Ranking
 ![Composite Ranking](https://github.com/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/assets/composite_ranking.png?raw=true)
@@ -117,6 +122,7 @@ Full sample PDF: [defi_sustainability_report.pdf](https://github.com/GeorgeKGM20
 
 
 MIT License. See [LICENSE](LICENSE) for details.
+
 
 
 
