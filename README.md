@@ -67,7 +67,7 @@ The report pulls fresh data on each run, so results reflect current market condi
 |-------------------------------|-------------|
 | TVL Growth (ann.)      	| Annualized CAGR of Total Value Locked over the trailing 12 months. |
 | Future Dilution Potential     | Undistributed supply as a fraction of max supply (0-1 scale). |
-| Emission Pressure      	| Heuristic combining supply overhang with TVL momentum: overhang / growth (if positive, floored at 5%);<br>or (overhang x 2) + (|decline| x 2) (if negative). Capped at 10 for relative ranking. |
+| Emission Pressure      	| Heuristic combining supply overhang with TVL momentum: overhang / growth (if positive, floored at 5%);<br>or (overhang x 2) + (|decline| x 2) (if negative). <br> Capped at 10 for relative ranking. |
 | P/S Ratio             	| Market cap / annualized protocol revenue (30-day avg daily x 365). |
 | FDV / Revenue          	| Fully diluted valuation / annualized revenue. |
 | Composite Score        	| Weighted sum of normalized metrics (log-scaled for outliers). Lower score indicates lower relative risk within the peer group. |
@@ -115,6 +115,7 @@ Full sample PDF: [defi_sustainability_report.pdf](https://github.com/GeorgeKGM20
 
 
 MIT License. See [LICENSE](LICENSE) for details.
+
 
 
 
