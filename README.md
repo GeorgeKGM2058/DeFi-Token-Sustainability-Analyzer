@@ -46,7 +46,7 @@ DefiLlama API is public and requires no key.
 ### Installation
 No local install needed—run directly in Colab:
 1. Open the notebook directly in Colab:
-   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/reports/defi_sustainability_report.ipynb)
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/defi_sustainability_report.ipynb)
 2. Insert your CoinGecko key.
 3. Go to Runtime > Run all.
 
@@ -106,9 +106,9 @@ Below are excerpts from a sample report (data from March 2026 run):
 ### Composite Ranking
 ![Composite Ranking](https://github.com/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/assets/composite_ranking.png?raw=true)
 
-
-Full sample PDF: [defi_sustainability_report.pdf](https://github.com/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/defi_sustainability_report.pdf)
-
+   
+Full sample PDF: [defi_sustainability_report.pdf](https://github.com/GeorgeKGM2058/DeFi-Token-Sustainability-Analyzer/blob/main/reports/defi_sustainability_report.pdf)
+               
 
 ## Possible Future Improvements
 
@@ -122,6 +122,7 @@ Full sample PDF: [defi_sustainability_report.pdf](https://github.com/GeorgeKGM20
 
 
 MIT License. See [LICENSE](LICENSE) for details.
+
 
 
 
